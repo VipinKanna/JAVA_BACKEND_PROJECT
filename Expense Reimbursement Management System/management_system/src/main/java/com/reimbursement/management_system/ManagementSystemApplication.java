@@ -1,13 +1,13 @@
-package com.employee.manager;
+package com.reimbursement.management_system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ManagerApplication {
+public class ManagementSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ManagerApplication.class, args);
+		SpringApplication.run(ManagementSystemApplication.class, args);
 	}
 
 }

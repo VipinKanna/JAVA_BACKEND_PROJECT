@@ -8,10 +8,10 @@
 		<version>4.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.employee</groupId>
-	<artifactId>manager</artifactId>
+	<groupId>com.reimbursement</groupId>
+	<artifactId>management_system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>manager</name>
+	<name>management_system</name>
 	<description/>
 	<url/>
 	<licenses>
